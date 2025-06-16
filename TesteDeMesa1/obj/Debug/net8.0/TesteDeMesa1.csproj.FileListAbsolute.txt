@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TesteDeMesa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TesteDeMesa1.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TesteDeMesa1.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TesteDeMesa1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TesteDeMesa1.exe
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TesteDeMesa1.deps.json
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TesteDeMesa1.runtimeconfig.json
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TesteDeMesa1.dll
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TesteDeMesa1.pdb
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TesteDeMesa1.dll
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\refint\TesteDeMesa1.dll
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TesteDeMesa1.pdb
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TesteDeMesa1.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\ref\TesteDeMesa1.dll

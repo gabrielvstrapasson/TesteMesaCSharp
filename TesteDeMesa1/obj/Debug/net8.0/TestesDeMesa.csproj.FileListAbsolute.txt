@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TestesDeMesa.exe
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TestesDeMesa.deps.json
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TestesDeMesa.runtimeconfig.json
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TestesDeMesa.dll
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\bin\Debug\net8.0\TestesDeMesa.pdb
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TestesDeMesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TestesDeMesa.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TestesDeMesa.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TestesDeMesa.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TestesDeMesa.dll
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\refint\TestesDeMesa.dll
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TestesDeMesa.pdb
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\TestesDeMesa.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\C#\BNE\TesteDeMesa1\TesteDeMesa1\obj\Debug\net8.0\ref\TestesDeMesa.dll
