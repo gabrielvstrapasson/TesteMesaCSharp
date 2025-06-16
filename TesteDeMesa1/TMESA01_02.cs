@@ -23,6 +23,7 @@ namespace TestesDeMesa
                 Console.WriteLine($"A =  {a}");
                 a += 1;
             }
+            int opcaoContinue = Menu.Continue();
         }
     }
 }

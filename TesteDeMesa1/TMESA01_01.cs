@@ -36,8 +36,10 @@ namespace TestesDeMesa
                     Console.WriteLine($"O valor do vetor na posição {i}° {v[i]} = F");
                 }
 
-                
             }
+            Console.WriteLine("--------------------------------------");
+            int opcaoContinue = Menu.Continue();
+
         }
     }
 }

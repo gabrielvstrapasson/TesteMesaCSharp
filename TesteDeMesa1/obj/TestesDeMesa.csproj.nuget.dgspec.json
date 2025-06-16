@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TestesDeMesa.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TestesDeMesa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TestesDeMesa.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TestesDeMesa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TestesDeMesa.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TestesDeMesa.csproj",
         "projectName": "TestesDeMesa",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TestesDeMesa.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TestesDeMesa.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

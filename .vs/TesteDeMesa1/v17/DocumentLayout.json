@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testedemesa1\\testedemesa1\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testesdemesa\\testedemesa1\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|solutionrelative:testedemesa1\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testedemesa1\\testedemesa1\\tmesa01_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testesdemesa\\testedemesa1\\tmesa01_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|solutionrelative:testedemesa1\\tmesa01_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testedemesa1\\testedemesa1\\tmesa01_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testesdemesa\\testedemesa1\\tmesa01_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|solutionrelative:testedemesa1\\tmesa01_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testedemesa1\\testedemesa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|solutionrelative:testedemesa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testesdemesa\\testedemesa1\\tmesa01_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|solutionrelative:testedemesa1\\tmesa01_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testedemesa1\\testedemesa1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testesdemesa\\testedemesa1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|solutionrelative:testedemesa1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|c:\\users\\gabriel\\documents\\c#\\bne\\testesdemesa\\testedemesa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11E8FDD-E0BF-4332-8AD4-03D2C3786AE3}|TesteDeMesa1\\TestesDeMesa.csproj|solutionrelative:testedemesa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TMESA01_02.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TMESA01_02.cs",
-              "RelativeDocumentMoniker": "TesteDeMesa1\\TMESA01_02.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TMESA01_02.cs",
-              "RelativeToolTip": "TesteDeMesa1\\TMESA01_02.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\Author.cs",
+              "RelativeDocumentMoniker": "TesteDeMesa1\\Author.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\Author.cs",
+              "RelativeToolTip": "TesteDeMesa1\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:41:09.937Z",
+              "WhenOpened": "2025-06-16T13:16:57.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TMESA01_03.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TMESA01_03.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TMESA01_03.cs",
               "RelativeDocumentMoniker": "TesteDeMesa1\\TMESA01_03.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\TMESA01_03.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TMESA01_03.cs",
               "RelativeToolTip": "TesteDeMesa1\\TMESA01_03.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:34:22.839Z",
+              "WhenOpened": "2025-06-16T13:13:42.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\Author.cs",
-              "RelativeDocumentMoniker": "TesteDeMesa1\\Author.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\Author.cs",
-              "RelativeToolTip": "TesteDeMesa1\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TMESA01_02.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TMESA01_02.cs",
+              "RelativeDocumentMoniker": "TesteDeMesa1\\TMESA01_02.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TMESA01_02.cs",
+              "RelativeToolTip": "TesteDeMesa1\\TMESA01_02.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:05:32.967Z",
+              "WhenOpened": "2025-06-16T13:13:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TMESA01_01.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TMESA01_01.cs",
+              "RelativeDocumentMoniker": "TesteDeMesa1\\TMESA01_01.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\TMESA01_01.cs",
+              "RelativeToolTip": "TesteDeMesa1\\TMESA01_01.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:09:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\Program.cs",
+              "RelativeDocumentMoniker": "TesteDeMesa1\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\Program.cs",
+              "RelativeToolTip": "TesteDeMesa1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:04:49.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\Menu.cs",
               "RelativeDocumentMoniker": "TesteDeMesa1\\Menu.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\Menu.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TestesDeMesa\\TesteDeMesa1\\Menu.cs",
               "RelativeToolTip": "TesteDeMesa1\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T20:04:59.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\Program.cs",
-              "RelativeDocumentMoniker": "TesteDeMesa1\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\BNE\\TesteDeMesa1\\TesteDeMesa1\\Program.cs",
-              "RelativeToolTip": "TesteDeMesa1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:34:39.684Z",
+              "WhenOpened": "2025-06-16T13:02:58.211Z",
               "EditorCaption": ""
             }
           ]
