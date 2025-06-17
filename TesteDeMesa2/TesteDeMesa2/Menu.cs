@@ -16,7 +16,9 @@ namespace TesteDeMesa2
             Console.WriteLine("Escolha qual problema deseja visualizar: ");
             Console.WriteLine("[0] - Sair");
             Console.WriteLine("[1] - Rendimento de um investimento.");
-            Console.WriteLine("[2] - Rendimento ao mês com Juros Compostos.");
+            Console.WriteLine("[2] - Rendimento Juros Compostos.");
+            Console.WriteLine("[3] - Rendimento Calculado.");
+            Console.WriteLine("[4] - Rendimento com resgate.");
             Console.WriteLine("----------------------------------------------------");
             Console.Write("Opção: ");
             int opcao = int.Parse(Console.ReadLine()!);
@@ -36,6 +38,16 @@ namespace TesteDeMesa2
                 case 2:
                     Console.Clear();
                     Problema2.RendimentoAoMes();
+                    Continue();
+                    break;
+                case 3:
+                    Console.Clear();
+                    Problema3.RendimentoAno();
+                    Continue();
+                    break;
+                case 4:
+                    Console.Clear();
+                    Problema4.RendimentoComResgate();
                     Continue();
                     break;
             }

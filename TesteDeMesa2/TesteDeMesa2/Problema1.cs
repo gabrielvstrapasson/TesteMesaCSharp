@@ -10,21 +10,21 @@ namespace TesteDeMesa2
     {
         public static void  RendimentoInvestimento()
         {
-            double valorPresente, taxaJuros;
-            int periodoMes;
+            double valorPresente, taxaJuros, periodoConvertido;
             Console.Clear();
             Console.WriteLine("----------------------------------------------------");
-            Console.WriteLine("Calculo de Rendimento de um Investimento");
+            Console.WriteLine("Calculo de Rendimento de um Investimento Final");
             Console.WriteLine("----------------------------------------------------");
             Console.Write("Informe o valor presente: ");
             valorPresente = Convert.ToDouble(Console.ReadLine());
             Console.Write("Informe a taxa de juros: ");
-            taxaJuros = Convert.ToDouble(Console.ReadLine()!.Replace(',', '.'));
-            Console.Write("Informe o periodo (mês): ");
-            periodoMes = Convert.ToInt32(Console.ReadLine());
+            taxaJuros = Convert.ToDouble(Console.ReadLine());
+            periodoConvertido = ConversorPeriodo();
+
+            Console.WriteLine("MÊS\t VALOR");
             Console.WriteLine("----------------------------------------------------");
-            double valorFinal = ValorFuturo(valorPresente, taxaJuros, periodoMes);
-            Console.WriteLine($"O Rendimento do Investimento no {periodoMes}° mês = R${valorFinal}");
+            double valorFinal = ValorFuturo(valorPresente, taxaJuros, periodoConvertido);
+            Console.WriteLine($"{periodoConvertido}°\t R${valorFinal}");
             Console.WriteLine("----------------------------------------------------");
         }
 

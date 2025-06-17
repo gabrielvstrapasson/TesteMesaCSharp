@@ -11,31 +11,27 @@ namespace TesteDeMesa2
 
         public static void RendimentoAoMes()
         {
-            double valorPresente, taxaJuros;
-            int periodoMes;
-            double rendimentoLiquido, rendimentoAcumulado = 0, valorAnterior;
+            double valorPresente = 3800, taxaJuros = 1.25;
+            int periodo = 6;
+            double rendaLiquido, rendaAcumulado = 0, valorAnterior;
             Console.WriteLine("----------------------------------------------------");
-            Console.WriteLine("Calculo de Rendimento ao Mês");
+            Console.WriteLine("Calculo de Rendimento - Valor Fixo");
             Console.WriteLine("----------------------------------------------------");
-            Console.Write("Informe o valor presente: ");
-            valorPresente = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Informe a taxa de juros: ");
-            taxaJuros = Convert.ToDouble(Console.ReadLine()!.Replace(',', '.'));
-            Console.Write("Informe o periodo (mês): ");
-            periodoMes = Convert.ToInt32(Console.ReadLine());
             valorAnterior = valorPresente;
-
-            for (int i =1; i <= periodoMes; i++)
+            Console.WriteLine("MÊS\t TAXA JUROS\t VALOR\t\t RENDA LIQUIDA\tRENDA ACUMULADA");
+            Console.WriteLine("----------------------------------------------------");
+            for (int i = 1; i <= periodo; i++)
             {
-                Console.WriteLine("----------------------------------------------------");
                 double valorFinal = ValorFuturo(valorPresente, taxaJuros, i);
-                Console.WriteLine($"Mês: {i}");
-                Console.WriteLine($"Taxa Juros = {taxaJuros}%");
-                Console.WriteLine($"Rendimento = R${valorFinal:F2}");
-                rendimentoLiquido = valorFinal - valorAnterior;
-                Console.WriteLine($"Rendimento Liquido = R${rendimentoLiquido:F2}");
-                rendimentoAcumulado += rendimentoLiquido;
-                Console.WriteLine($"Rendimento Acumulado = R${rendimentoAcumulado:F2}");
+
+                Console.Write($"{i}\t   {taxaJuros}%\t R${valorFinal:F2}\t");
+                /*Console.WriteLine($"Taxa Juros = {taxaJuros}%");
+                Console.WriteLine($"Rendimento = R${valorFinal:F2}"); */
+                rendaLiquido = valorFinal - valorAnterior;
+                Console.Write($" R${rendaLiquido:F2}");
+                rendaAcumulado += rendaLiquido;
+                Console.Write($"\tR${rendaAcumulado:F2}");
+                Console.WriteLine();
                 valorAnterior = valorFinal;
             }
             Console.WriteLine("----------------------------------------------------");
