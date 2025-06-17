@@ -12,6 +12,9 @@ namespace TesteDeMesa2
         public static void RendimentoComResgate()
         {
             double valorPresente, taxaJuros, periodoConvertido;
+            const double valorResgate = 1000;
+            double resgateAtual = 0;
+            int mesRelativo = 1;
             int periodoResgate = 5;
             Console.WriteLine("----------------------------------------------------");
             Console.WriteLine("Rendimento com Resgate");
@@ -21,25 +24,34 @@ namespace TesteDeMesa2
             Console.Write("Informe a taxa de juros: ");
             taxaJuros = Convert.ToDouble(Console.ReadLine());
             periodoConvertido = ConversorPeriodo();
-            Console.WriteLine("MÊS\t RENDA LIQUIDA\tRENDA ACUMULADA\t VALOR");
+            Console.WriteLine($"{"MÊS",4}|{"RENDA LIQUIDA",15}|{"RENDA ACUMULADA",15}|{"RESGATE",15}");
             Console.WriteLine("----------------------------------------------------");
-            for (int i = 0; i <= periodoConvertido; i++)
+            double valorFinalAnterior = valorPresente;
+            for (int i = 1; i <= periodoConvertido; i++)
             {
-                double valorFinal = ValorFuturo(valorPresente, taxaJuros, i);
-                double rendaLiquida = valorFinal  - valorPresente , valorResgate = 1000;
+
+                double valorFinalAtual = ValorFuturo(valorPresente, taxaJuros, mesRelativo);
+                double rendaLiquida = valorFinalAtual - valorFinalAnterior;
+
+
                 if (i == periodoResgate)
                 {
-                    valorFinal -= valorResgate;
-                    valorPresente = valorFinal;
-                    periodoConvertido -= i;
-                    i = 1;
-                    
+
+                    valorFinalAtual -= valorResgate;
+                    valorPresente = valorFinalAtual;
+                    resgateAtual = valorResgate;
                 }
-                Console.WriteLine($"{i}\t R${rendaLiquida:f2}\tR${valorPresente + rendaLiquida - valorResgate:F2}\t R${valorFinal:f2}");
-                /*Console.WriteLine($"Mês: {periodoConvertido:F2}");
-                Console.WriteLine($"Renda Liquida: {rendaLiquida:F2}");
-                Console.WriteLine($"Renda Acumulada: {valorPresente + rendaLiquida - valorResgate:F2}");
-                Console.WriteLine($"Valor Final: {valorFinal:F2}");*/
+
+                Console.WriteLine($"{mesRelativo,4}|{rendaLiquida,15:F2}|{valorFinalAtual,15:F2}|{resgateAtual,15:F2}");
+                valorFinalAnterior = valorFinalAtual;
+
+                if (i == periodoResgate)
+                    mesRelativo = 0;
+
+                resgateAtual = 0;
+
+                mesRelativo++;
+
             }
             Console.WriteLine("----------------------------------------------------");
         }
