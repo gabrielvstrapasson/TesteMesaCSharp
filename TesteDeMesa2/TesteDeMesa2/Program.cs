@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using System.Net;
+using TesteDeMesa2;
+
+Author.BoasVindas();
+
+Menu.MenuOptions();
