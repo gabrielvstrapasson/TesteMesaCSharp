@@ -2,8 +2,7 @@
 
 ### 🧪 Teste de Mesa 01 - Exercício com Prova Real
 
-**Descrição:**  
-Exercício com validação de resultados por meio de prova real, demonstrando o funcionamento passo a passo da lógica implementada.
+**Descrição:**  Exercício com validação de resultados por meio de prova real, demonstrando o funcionamento passo a passo da lógica implementada.
 
 🔗 [Acessar planilha do Teste 01](https://docs.google.com/spreadsheets/d/1XipB3ZIBw8UkZMpYaWwvHYc1QzzDljNCNjpN7aPZPSA/edit?usp=sharing)
 
@@ -11,8 +10,7 @@ Exercício com validação de resultados por meio de prova real, demonstrando o 
 
 ### 🧮 Teste de Mesa 02 - Cálculo de Rendimento de Investimento
 
-**Descrição:**  
-Conjunto de 5 exercícios abordando diferentes cenários de cálculo de rendimento de investimento, com variações em:
+**Descrição:**  Conjunto de 5 exercícios abordando diferentes cenários de cálculo de rendimento de investimento, com variações em:
 
 - Taxas anuais (a.a.) e mensais (a.m.)
 - Valores fixos vs. entradas fornecidas pelo usuário
