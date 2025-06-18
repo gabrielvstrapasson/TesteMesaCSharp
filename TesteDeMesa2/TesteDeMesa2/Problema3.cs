@@ -8,7 +8,7 @@ namespace TesteDeMesa2
         {
             double valorPresente, taxaJuros;
             Console.WriteLine("----------------------------------------------------");
-            Console.WriteLine("Rendimento Calculado");
+            Console.WriteLine("PROBLEMA 3 - RENDIMENTO [ENTRADA DE DADOS]");
             Console.WriteLine("----------------------------------------------------");
             Console.Write("Informe o valor presente: ");
             valorPresente = Convert.ToDouble(Console.ReadLine());
@@ -18,9 +18,12 @@ namespace TesteDeMesa2
             Console.Write("Informe o periodo em anos: ");
             double periodoAnos = double.Parse(Console.ReadLine()!);
             periodoAnos *= 12;
-            double valorFinal = ValorFuturo(valorPresente, taxaJuros, periodoAnos);
-            Console.WriteLine($"Dados Informados:\nValor Presente: R${valorPresente}\nTaxa Juros: {taxaJuros}\nPeriodo[Anos]: {periodoAnos:F0}\nValor Final: R${valorFinal}");
-
+            double valorFuturo = ValorFuturo(valorPresente, taxaJuros, periodoAnos);
+            Console.WriteLine("----------------------------------------------------");
+            Console.WriteLine($"{"MÊS",4}|{"VALOR PRESENTE",15}|{"TAXA JUROS",15}|{"VALOR FUTURO",15}|");
+            Console.WriteLine("----------------------------------------------------");
+            //Console.WriteLine($"Dados Informados:\nValor Presente: R${valorPresente}\nTaxa Juros: {taxaJuros}\nPeriodo[Anos]: {periodoAnos:F0}\nValor Final: R${valorFinal}");
+            Console.WriteLine($"{periodoAnos,4}|{valorPresente,15}|{taxaJuros,15}|{valorFuturo,15}|");
             Console.WriteLine("----------------------------------------------------");
 
         }

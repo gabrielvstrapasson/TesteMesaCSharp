@@ -17,33 +17,33 @@ namespace TesteDeMesa2
             int mesRelativo = 1;
             int periodoResgate = 5;
             Console.WriteLine("----------------------------------------------------");
-            Console.WriteLine("Rendimento com Resgate");
+            Console.WriteLine("PROBLEMA 4 - RENDIMENTO COM SAQUE 5° MÊS");
             Console.WriteLine("----------------------------------------------------");
             Console.Write("Informe o valor presente: ");
             valorPresente = Convert.ToDouble(Console.ReadLine());
             Console.Write("Informe a taxa de juros: ");
             taxaJuros = Convert.ToDouble(Console.ReadLine());
             periodoConvertido = ConversorPeriodo();
-            Console.WriteLine($"{"MÊS",4}|{"RENDA LIQUIDA",15}|{"RENDA ACUMULADA",15}|{"RESGATE",15}");
+            Console.WriteLine($"{"MÊS",4}|{"RENDA LIQUIDA",15}|{"RESGATE",15}|{"RENDA ACUMULADA",15}|");
             Console.WriteLine("----------------------------------------------------");
-            double valorFinalAnterior = valorPresente;
+            double valorFuturoAnterior = valorPresente;
             for (int i = 1; i <= periodoConvertido; i++)
             {
 
-                double valorFinalAtual = ValorFuturo(valorPresente, taxaJuros, mesRelativo);
-                double rendaLiquida = valorFinalAtual - valorFinalAnterior;
+                double valorFuturoAtual = ValorFuturo(valorPresente, taxaJuros, mesRelativo);
+                double rendaLiquida = valorFuturoAtual - valorFuturoAnterior;
 
 
                 if (i == periodoResgate)
                 {
 
-                    valorFinalAtual -= valorResgate;
-                    valorPresente = valorFinalAtual;
+                    valorFuturoAtual -= valorResgate;
+                    valorPresente = valorFuturoAtual;
                     resgateAtual = valorResgate;
                 }
 
-                Console.WriteLine($"{mesRelativo,4}|{rendaLiquida,15:F2}|{valorFinalAtual,15:F2}|{resgateAtual,15:F2}");
-                valorFinalAnterior = valorFinalAtual;
+                Console.WriteLine($"{mesRelativo,4}|{rendaLiquida,15:F2}|{resgateAtual,15:F2}|{valorFuturoAtual,15:F2}");
+                valorFuturoAnterior = valorFuturoAtual;
 
                 if (i == periodoResgate)
                     mesRelativo = 0;

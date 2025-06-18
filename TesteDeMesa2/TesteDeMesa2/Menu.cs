@@ -15,10 +15,11 @@ namespace TesteDeMesa2
             Console.WriteLine("----------------------------------------------------");
             Console.WriteLine("Escolha qual problema deseja visualizar: ");
             Console.WriteLine("[0] - Sair");
-            Console.WriteLine("[1] - Rendimento de um investimento.");
-            Console.WriteLine("[2] - Rendimento Juros Compostos.");
-            Console.WriteLine("[3] - Rendimento Calculado.");
-            Console.WriteLine("[4] - Rendimento com resgate.");
+            Console.WriteLine("[1] - PROBLEMA 1 - RENDIMENTO INVESTIMENTO.");
+            Console.WriteLine("[2] - PROBLEMA 2 - RENDIMENTO [MÊS] [VALOR FIXO].");
+            Console.WriteLine("[3] - PROBLEMA 3 - RENDIMENTO [ENTRADA DE DADOS].");
+            Console.WriteLine("[4] - PROBLEMA 4 - RENDIMENTO COM SAQUE 5° MÊS.");
+            Console.WriteLine("[5] - PROBLEMA 5 - RENDIMENTO PARA OBTER VALOR FUTURO [VALOR FIXO].");
             Console.WriteLine("----------------------------------------------------");
             Console.Write("Opção: ");
             int opcao = int.Parse(Console.ReadLine()!);
@@ -48,6 +49,11 @@ namespace TesteDeMesa2
                 case 4:
                     Console.Clear();
                     Problema4.RendimentoComResgate();
+                    Continue();
+                    break;
+                case 5:
+                    Console.Clear();
+                    Problema5.DescobrirValorFuturo();
                     Continue();
                     break;
             }
