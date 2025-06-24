@@ -9,9 +9,9 @@ namespace TesteMesa3
     class Problema8 : Calculadora
     {
 
-
         public void RendimentoComEntrada()
         {
+            Console.Clear();
             Console.Write("Informe a quantidade de Entradas: ");
             int quantidadeEntrada = int.Parse(Console.ReadLine()!);
             Console.Write("Deseja fazer resgate? (s/n)");

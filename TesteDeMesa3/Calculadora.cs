@@ -4,20 +4,6 @@ namespace TesteMesa3
 {
     public class Calculadora
     {
-        private int valorMes { get; set; }
-        private double valorDia { get; set; }
-        private double valorPresente { get; set; }
-        private double taxaJuros { get; set; }
-        private double valorFuturo { get; set; }
-        public Calculadora()
-        {
-            valorMes = 0;
-            valorDia = 0.0;
-            valorPresente = 0;
-            taxaJuros = 0;
-            valorFuturo = 0;
-        }
-
         public void ImprimirCabecalho()
         {
             Console.WriteLine($"{"PERÍODO".PadRight(18)}{"VALOR PRESENTE",12}{"TAXA JUROS",12}{"VALOR FUTURO",18}");
